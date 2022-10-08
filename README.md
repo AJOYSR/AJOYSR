@@ -14,6 +14,14 @@
 - 📫 How to reach me **ajoy.stu20181@juniv.edu**
 
 - ⚡ Fun fact **I love to play cricket and play football**
+<h2 align="center">Visitor Count</h2>
+<p align="center">
+  <img align="center" alt="" width="40%" src="https://profile-counter.glitch.me/AJOYSR/count.svg" />
+</p>
+<h2 align="center">Visitor Count</h2>
+<p align="center">
+  <img align="center" alt="" width="40%" src="https://profile-counter.glitch.me/AJOYSR/count.svg" />
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
