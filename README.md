@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, Ajoy Sarker</a></h1>
-<h4 align="center">Full Stack Web Developer | Angular | Nodejs | Reactjs | MongoDB | Python | Java </h4> <br/>
+<h4 align="center">Full Stack Web Developer Django(backend) | Angular | Nodejs | Reactjs | MongoDB | Python | Java </h4> <br/>
 
 <p align="center"> <b>Student at JahangirNagar University (JU) <b/><br/>
       Department of <b>Computer Science and Engineering (CSE)</b> </P>
