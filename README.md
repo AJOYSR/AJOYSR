@@ -28,7 +28,8 @@
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AJOYSR&" alt="" /><br/>
 
-![AJOY'S GitHub stats](https://github-readme-stats.vercel.app/api?username=AJOYSR&count_private=true)
+<!-- ![AJOY'S GitHub stats](https://github-readme-stats.vercel.app/api?username=AJOYSR&count_private=true) -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AJOYSR&show_icons=true&theme=radical)
 <br/>
 
 [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=AJOYSR&card_width=550)](https://github.com/AJOYSR/AJOYSR)
