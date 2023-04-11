@@ -32,12 +32,12 @@
   
   <td>
   <a href="https://github.com/AJOYSR">
-  <img align="center" src="https://github-readme-stats-samirpaul.vercel.app/api?username=AJOYSR&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true" alt="Samir's Github Stats" height="180rem" />
+  <img align="center" src="https://github-readme-stats-samirpaul.vercel.app/api?username=AJOYSR&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Samir's Github Stats" height="180rem" />
   </a>
   </td>
     
   <td> 
-<a href="https://github.com/AJOYSR"><img align="center" src="https://github-readme-stats-samirpaul.vercel.app/api/top-langs/?username=AJOYSR&layout=compact&theme=transparent&hide_border=true" height="180rem"/></a>
+<a href="https://github.com/AJOYSR"><img align="center" src="https://github-readme-stats-samirpaul.vercel.app/api/top-langs/?username=AJOYSR&layout=compact&theme=radical&hide_border=true" height="180rem"/></a>
   </td>
     
 </tr>
@@ -50,7 +50,7 @@
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AJOYSR&" alt="" /><br/>
 
 <!-- ![AJOY'S GitHub stats](https://github-readme-stats.vercel.app/api?username=AJOYSR&count_private=true) -->
-![AJOYSR's GitHub stats](https://github-readme-stats.vercel.app/api?username=AJOYSR&show_icons=true&theme=transparent)
+<!-- ![AJOYSR's GitHub stats](https://github-readme-stats.vercel.app/api?username=AJOYSR&show_icons=true&theme=transparent)
 <br/>
 
-[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=AJOYSR&card_width=550)](https://github.com/AJOYSR/AJOYSR)
+[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=AJOYSR&card_width=550)](https://github.com/AJOYSR/AJOYSR) -->
