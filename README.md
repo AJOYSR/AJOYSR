@@ -32,7 +32,7 @@
   
   <td>
   <a href="https://github.com/AJOYSR">
-  <img align="center" src="https://github-readme-stats-samirpaul.vercel.app/api?username=AJOYSR&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true" alt="Ajoy's Github Stats" height="180rem" />
+  ![AJOYSR's GitHub stats](https://github-readme-stats.vercel.app/api?username=AJOYSR&show_icons=true&theme=transparent)
   </a>
   </td>
     
