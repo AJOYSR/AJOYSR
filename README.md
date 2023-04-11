@@ -26,6 +26,26 @@
 ![](https://leetcard.jacoblin.cool/Ajoysrk?theme=unicorn) 
 
 
+
+<table>
+<tr>
+  
+  <td>
+  <a href="https://github.com/AJOYSR">
+  <img align="center" src="https://github-readme-stats-samirpaul.vercel.app/api?username=AJOYSR&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true" alt="Ajoy's Github Stats" height="180rem" />
+  </a>
+  </td>
+    
+  <td> 
+<a href="https://github.com/AJOYSR"><img align="center" src="https://github-readme-stats-samirpaul.vercel.app/api/top-langs/?username=AJOYSR&layout=compact&theme=transparent&hide_border=true" height="180rem"/></a>
+  </td>
+    
+</tr>
+</table>
+
+
+
+
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AJOYSR&" alt="" /><br/>
 
 <!-- ![AJOY'S GitHub stats](https://github-readme-stats.vercel.app/api?username=AJOYSR&count_private=true) -->
