@@ -25,23 +25,24 @@
 
 ![](https://leetcard.jacoblin.cool/Ajoysrk?theme=unicorn) 
 
-
-
+ 
+<p align="center">
 <table>
 <tr>
   
   <td>
   <a href="https://github.com/AJOYSR">
-  ![AJOYSR's GitHub stats](https://github-readme-stats.vercel.app/api?username=AJOYSR&show_icons=true&theme=transparent)
+  <img align="center" src="https://github-readme-stats-samirpaul.vercel.app/api?username=AJOYSR&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Samir's Github Stats" height="180rem" />
   </a>
   </td>
     
   <td> 
-<a href="https://github.com/AJOYSR"><img align="center" src="https://github-readme-stats-samirpaul.vercel.app/api/top-langs/?username=AJOYSR&layout=compact&theme=transparent&hide_border=true" height="180rem"/></a>
+<a href="https://github.com/AJOYSR"><img align="center" src="https://github-readme-stats-samirpaul.vercel.app/api/top-langs/?username=AJOYSR&layout=compact&theme=radical&hide_border=true" height="180rem"/></a>
   </td>
     
 </tr>
 </table>
+</p>
 
 
 
