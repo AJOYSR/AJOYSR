@@ -9,7 +9,7 @@
 <a href="https://medium.com/@jucse28.384" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="ajoysr" height="70" width="40" /></a>     
 <a href="https://www.instagram.com/ajoysr/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ajoysr" height="70" width="40" /></a>   
 <a href="https://web.facebook.com/ajoysrju?_rdc=1&_rdr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="ajoysr" height="70" width="40" /></a>       
-  <a href="ajoysr#0760" target="blank"><img align="center" src="https://img.icons8.com/ios/256/discord-logo--v1.png" alt="ajoysr" height="60" width="35" /></a> 
+  <a href="https://discord.gg/ajoysrju" target="blank"><img align="center" src="https://img.icons8.com/ios/256/discord-logo--v1.png" alt="ajoysr" height="60" width="35" /></a> 
 <a href="https://atcoder.jp/users/ajoy384" target="blank"><img align="center" src="https://img.atcoder.jp/assets/top/img/logo_bk.svg" alt="ajoysr" height="70" width="40" /></a> 
 <a href="https://codeforces.com/profile/void_main" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="ajoysr" height="70" width="40" /> </a>  
 <a href="https://www.codechef.com/users/ajoy_28_384" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codechef.svg" alt="ajoysr" height="70" width="40" /> </a>  
