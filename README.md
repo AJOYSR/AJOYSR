@@ -46,7 +46,7 @@ Hello everyone! I'm a Full Stack Web Developer with a wide range of skills and e
   
   <td>
   <a href="https://github.com/AJOYSR">
-  <img align="center" src="https://github-readme-stats-samirpaul.vercel.app/api?username=AJOYSR&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true" alt="Samir's Github Stats" height="180rem" />
+  <img align="center" src="https://github-readme-stats-samirpaul.vercel.app/api?username=AJOYSR&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true" alt="Ajoy's Github Stats" height="180rem" />
   </a>
   </td>
     
