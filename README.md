@@ -18,7 +18,7 @@
 </p>
 
 <hr/>
-Hello everyone! I'm a Full Stack Web Developer with a wide range of skills and experience in building web applications. My expertise includes MERN Stack, Django, Angular, Nodejs, Reactjs, MongoDB, Python, and Java. Currently, I'm a student at JahangirNagar University, studying Computer Science and Engineering. I have a passion for creating clean, efficient, and user-friendly web applications. With my skills and knowledge, I am confident that I can help you bring your ideas to life. Let's connect and create something amazing!
+Hello everyone! I'm a Full Stack Web Developer with a wide range of skills and experience in building web applications. My expertise includes MERN Stack, Django, Angular, Nodejs, Reactjs, MongoDB, Python, and Java. Currently, I'm a student at JahangirNagar University, studying Computer Science and Engineering. I have a passion for creating clean, efficient, and user-friendly web applications. With my skills and knowledge, I am confident that I can help you bring your ideas to life. Let's connect and create something amazing!.
  
  ---
 <h2 align="center">Visitor Count</h2>
