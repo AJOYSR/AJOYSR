@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, Ajoy Sarker This side</a></h1>
 <h4 align="center">Full Stack Web Developer[- Django(backend) | React-Native | Reactjs | MongoDB | Python -] </h4> <br/>
 
-<p align="center"> <b>Student at JahangirNagar University (JU) <b/><br/>
-      Department of <b>Computer Science and Engineering (CSE)</b> </P>
+<p align="center"> <b>Associate Software Engineer at Brain station 23 ltd. <b/><br/>
+     From: Department of <b>Computer Science and Engineering (CSE)</b> </P>
 
   <p align="center" style="bg-color:grey">
 <a href="https://www.linkedin.com/in/ajoysrju/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ajoy" height="70" width="40" /></a>    
