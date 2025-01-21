@@ -34,9 +34,9 @@ Hello everyone! I'm a Full Stack Web Developer with a wide range of skills and e
 </p>
 
 <hr/>
-<div style="display: flex; justify-content: center; align-items: center; gap:14px">  
+<div style="display: flex; justify-content: center; align-items: center;">  
    <img src="https://leetcard.jacoblin.cool/Ajoysrk?theme=dark" style="margin-right: 10px;" />  
-   <img width="400" src="https://github-readme-stats.vercel.app/api?username=AJOYSR&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" />  
+   <img width="200" src="https://github-readme-stats.vercel.app/api?username=AJOYSR&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" />  
 </div>
 <hr/>
 
