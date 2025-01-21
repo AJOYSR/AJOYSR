@@ -39,6 +39,7 @@ Hello everyone! I'm a Full Stack Web Developer with a wide range of skills and e
 <hr/>
 
    ![](https://leetcard.jacoblin.cool/Ajoysrk?theme=unicorn)   
+   <img width=400 src='https://github-readme-stats.vercel.app/api?username=AJOYSR&theme=vue-dark&show_icons=true&hide_border=true&count_private=true' />
 
  
 <hr/>
