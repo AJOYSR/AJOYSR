@@ -18,7 +18,14 @@
 </p>
 
 <hr/>
-Hello everyone! I'm a Full Stack Web Developer with a wide range of skills and experience in building web applications. My expertise includes Django, Nodejs, Reactjs, MongoDB, Python. Currently, I'm a student at JahangirNagar University, studying Computer Science and Engineering. I have a passion for creating clean, efficient, and user-friendly web applications. With my skills and knowledge, I am confident that I can help you bring your ideas to life. Let's connect and create something amazing!.
+Hello there!
+I'm a Software Engineer I at Brain Station 23 PLC, based in Dhaka, Bangladesh. I specialize in building full-stack applications using NestJS, NodeJS, React, React Native, MongoDB, PostgreSQL, and Vector Databases.
+
+I’ve also worked on exciting AI integration projects, like automating CRM workflows (turning visiting cards into leads) and developing custom AI chatbots.
+
+With a strong background in backend systems, frontend interfaces, and AI-driven automation, I’m passionate about crafting scalable, efficient, and user-centric solutions.
+
+Let’s collaborate and build something amazing — feel free to connect! 🚀
  
  ---
 
