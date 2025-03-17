@@ -18,16 +18,16 @@
 </p>
 
 <hr/>
-<p>
-Hello there!
-I'm a Software Engineer I at Brain Station 23 PLC, based in Dhaka, Bangladesh. I specialize in building full-stack applications using NestJS, NodeJS, React, React Native, MongoDB, PostgreSQL, and Vector Databases.
+Hello there!  
+I'm a Software Engineer I at Brain Station 23 PLC, based in Dhaka, Bangladesh. I specialize in building full-stack applications using NestJS, NodeJS, React, React Native, MongoDB, PostgreSQL, and Vector Databases.  
 
-I’ve also worked on exciting AI integration projects, like automating CRM workflows (turning visiting cards into leads) and developing custom AI chatbots.
+I’ve also worked on exciting AI integration projects, like automating CRM workflows (turning visiting cards into leads) and developing custom AI chatbots.  
 
-With a strong background in backend systems, frontend interfaces, and AI-driven automation, I’m passionate about crafting scalable, efficient, and user-centric solutions.
+With a strong background in backend systems, frontend interfaces, and AI-driven automation, I’m passionate about crafting scalable, efficient, and user-centric solutions.  
 
-Let’s collaborate and build something amazing — feel free to connect! 🚀
-</p>
+Let’s collaborate and build something amazing — feel free to connect! 🚀  
+
+
  
  ---
 
