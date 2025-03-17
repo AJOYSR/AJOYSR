@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, Ajoy Sarker This side</a></h1>
 <h4 align="center">Full Stack Web Developer[- Node & NestJS(backend) | React-Native | Reactjs | MongoDB | Python -] </h4> <br/>
 
-<p align="center"> <b>Associate Software Engineer at Brain station 23 ltd. <b/><br/>
+<p align="center"> <b>Software Engineer I at Brain station 23 PLC <b/><br/>
      From: Department of <b>Computer Science and Engineering (CSE)</b> </P>
 
   <p align="center" style="bg-color:grey">
